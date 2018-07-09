@@ -22,4 +22,5 @@
   <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
   <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
   <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
+  <!-- Transfer speed for current download/s. -->
 </resources>

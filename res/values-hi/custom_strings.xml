@@ -27,4 +27,5 @@
   <string name="button_pause_download">रोके</string>
   <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
   <string name="notif_summary_paused">%d रोका गया</string>
+  <!-- Transfer speed for current download/s. -->
 </resources>

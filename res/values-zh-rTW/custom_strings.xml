@@ -28,4 +28,5 @@
   <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
   <string name="notif_summary_paused">%d 已暫停</string>
   <!-- Transfer speed for current download/s. -->
+  <string name="download_speed"><xliff:g id="duration">%s </xliff:g>/秒</string>
 </resources>
